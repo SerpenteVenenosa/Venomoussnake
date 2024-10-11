@@ -1,8 +1,10 @@
-# Nome do Projeto
+# ✨ Nome do Projeto
 
 Uma breve descrição do que seu projeto faz e suas funcionalidades.
 
-## Índice
+---
+
+## 📚 Índice
 
 - [Sobre](#sobre)
 - [Tecnologias](#tecnologias)
@@ -11,20 +13,22 @@ Uma breve descrição do que seu projeto faz e suas funcionalidades.
 - [Contribuição](#contribuição)
 - [Licença](#licença)
 
-## Sobre
+---
 
-Explique o objetivo do seu projeto, como ele funciona e quais problemas ele resolve.
+## 🧐 Sobre
 
-## Tecnologias
+Uma explicação do objetivo do seu projeto, como ele funciona e quais problemas ele resolve. 
 
-Liste as tecnologias e ferramentas utilizadas no seu projeto, por exemplo:
+## 💻 Tecnologias
 
-- Linguagem de programação (ex: Python, JavaScript)
-- Frameworks (ex: React, Django)
-- Banco de dados (ex: MySQL, MongoDB)
-- Outras ferramentas (ex: Docker, Webpack)
+As tecnologias e ferramentas utilizadas no seu projeto:
 
-## Instalação
+- **Linguagem de programação:** Python, JavaScript, etc.
+- **Frameworks:** React, Django, etc.
+- **Banco de dados:** MySQL, MongoDB, etc.
+- **Outras ferramentas:** Docker, Webpack, etc.
+
+## ⚙️ Instalação
 
 Instruções sobre como instalar e configurar o projeto localmente:
 
@@ -37,4 +41,3 @@ cd seu_repositorio
 
 # Instale as dependências
 npm install  # ou o comando específico para sua linguagem
-# Venomoussnake
